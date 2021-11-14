@@ -2,7 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
 This file has been edited by metinyiki
 New version offers more visibility
 with more text
