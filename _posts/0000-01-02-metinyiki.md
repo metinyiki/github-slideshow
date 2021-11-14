@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-This is very important. This file has been edited by metinyiki
+This is very important. This file has been edited by metinyiki that is all.
 New version offers more visibility
 with more text
 to read upon arrival
